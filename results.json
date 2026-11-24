@@ -1,0 +1,30 @@
+{
+  "exact": {
+    "lole": 9.39417552845318,
+    "eens": 1176.2984600448156,
+    "lole_daily": 1.3688629063919773
+  },
+  "non_sequential": {
+    "samples": 5000000,
+    "lole": 9.3165008,
+    "lole_se": 0.03847253882353906,
+    "eens": 1163.575370893058,
+    "eens_se": 7.272092860597344
+  },
+  "sequential": {
+    "years": 10000,
+    "lole": 9.3543,
+    "lole_se": 0.1619891391393877,
+    "eens": 1175.3190281884997,
+    "eens_se": 29.107930355104596,
+    "lolf": 1.9152,
+    "lolf_se": 0.026992105389823474,
+    "mean_event_duration_h": 4.884241854636592,
+    "share_years_with_shortage": 0.5621
+  },
+  "peak_load_carrying_capability_mw": 2483.3333333333335,
+  "plcc_monte_carlo_check": {
+    "lole_days": 0.0982544,
+    "se": 0.0010399419284633773
+  }
+}
